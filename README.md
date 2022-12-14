@@ -6,7 +6,7 @@
 - Shark Jack
 - USB Rubber Ducky
 
-![tw-d leaderboard](./readme_files/leaderboard.png "tw-d leaderboard")
+![tw-d leaderboard](./readme_files/leaderboard-december.png "tw-d leaderboard")
 
 ## Description
 
