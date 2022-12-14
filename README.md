@@ -56,7 +56,7 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ![bash_bunny-remote_access](./readme_files/bash_bunny/remote_access.png "bash_bunny-remote_access")
 
-["Linux Random Reverse Shell"](./bashbunny-payloads/remote_access/linux_random-reverse-shell/)
+["Linux" Random Reverse Shell](./bashbunny-payloads/remote_access/linux_random-reverse-shell/)
 
 ["Microsoft Windows" SMB Backdoor](./bashbunny-payloads/remote_access/win_smb-backdoor/)
 
