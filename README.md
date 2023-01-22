@@ -62,6 +62,8 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ["Microsoft Windows" WinRM Backdoor](./bashbunny-payloads/remote_access/win_winrm-backdoor/)
 
+["VideoLan VLC Media Player" Bind Shell](./bashbunny-payloads/remote_access/videolan-vlc_bind-shell)
+
 ### Key Croc
 
 #### Recon
