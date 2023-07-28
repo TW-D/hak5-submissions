@@ -104,4 +104,4 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ![usb_rubber_ducky-recon](./readme_files/usb_rubber_ducky/recon.png "usb_rubber_ducky-recon")
 
-[""](./usbrubberducky-payloads/recon/)
+["X-Frame-Options" Scanner](./usbrubberducky-payloads/recon/x-frame-options_scanner/)
