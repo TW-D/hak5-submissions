@@ -99,3 +99,9 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 ["Microsoft Windows" SMB Backdoor](./usbrubberducky-payloads/remote_access/win_smb-backdoor/)
 
 ["Microsoft Windows" WinRM Backdoor](./usbrubberducky-payloads/remote_access/win_winrm-backdoor/)
+
+### Recon
+
+![usb_rubber_ducky-recon](./readme_files/usb_rubber_ducky/recon.png "usb_rubber_ducky-recon")
+
+[""](./usbrubberducky-payloads/recon/)
